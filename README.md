@@ -1,5 +1,5 @@
 # Volcano-and-Population-Web-Map
-Sample output :arrow_down: <br />
+Snip of my output :arrow_down: <br />
 ###### A choropleth map showing colored polygons to represent the population of areas
 ![](images/screenshot1.JPG)
 ###### Add and style points to represent the elevation of volcano
